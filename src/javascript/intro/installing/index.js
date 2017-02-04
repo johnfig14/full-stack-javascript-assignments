@@ -1,8 +1,8 @@
-export const name = '';
+export const name = 'John Figueiredo';
 
-export const email = '';
+export const email = 'johnfig14@gmail.com';
 
-export const phone = '801-201-2200';
+export const phone = '435-531-4460';
 
 // Write code here
 

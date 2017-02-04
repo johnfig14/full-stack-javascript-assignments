@@ -31,11 +31,33 @@
 //     Variables are used for the storing of data. They are important because they allow for the storage of data values in code.
 
 
- var johnMessage = "Hello, my name is John!";
+//  var johnMessage = "Hello, my name is John!";
+//
+//  let johnGreeting = "I am taking the Helio Training development course!";
+//
+// var johnSaying = "I am looking for an engineering job!";
 
- let johnGreeting = "I am taking the Helio Training development course!";
+// export const message = 'hello';
+//
+// export const greeting = 'Yo!';
+//
+// export const saying = 'What up';
+//
+// export const poop = 'I am pooping!';
 
- const johnSaying = "I am looking for an engineering job!";
+export var message = 'hello';
+export let greeting = 'Yo!';
+export let saying = 'What up';
+export let stuff = 'computer';
+
+message = 'world';
+greeting = 'hello';
+saying = 'Booyah';
+stuff = 'car';
+
+// message = 'world';
+//
+// greeting = 'hello';
 
 
 // Can you assign a new value to message? (Assign 'world')
