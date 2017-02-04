@@ -8,6 +8,7 @@ Test('determine typings', t => {
   
   console.log(Object);
   
+  console.log(Assignment.time());
   
   if(null) {
     t.truthy(false);
